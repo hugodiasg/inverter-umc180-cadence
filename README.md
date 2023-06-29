@@ -21,7 +21,9 @@ Area: 17.80 um²
 ![image](https://github.com/hugodiasg/inverter-umc-180-cadence/assets/80465879/b97823c0-a5df-493f-a38b-bdfaa543415a)
 
 ## DRC and LVS
+
 DRC ✅
+
 LVS ✅
 
 ## Pos Layout Simulation
