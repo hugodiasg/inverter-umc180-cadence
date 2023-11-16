@@ -1,6 +1,7 @@
 # inverter-umc-180-cadence
 
-A simple CMOS Inverter in UMC 180n to learn the basic flux of Cadence Tools.
+A simple CMOS Inverter in UMC 180n to learn the basic flux of Cadence Tools. The IC has taped out on [tapeout-2023p2-umc180](https://github.com/hugodiasg/tapeout-2023p2-umc180).
+
 
 ## Schematic
 
