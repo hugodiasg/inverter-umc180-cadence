@@ -29,6 +29,7 @@ LVS ✅
 
 ## Pos Layout Simulation
 
-![image](https://github.com/hugodiasg/inverter-umc180-cadence/assets/80465879/80fa6ff4-9a79-41f8-a342-c6bc65f506fe)
+![image](https://github.com/hugodiasg/inverter-umc180-cadence/assets/80465879/3d49fb57-6dc1-4b51-a569-b3a095a903c4)
+
 
 
