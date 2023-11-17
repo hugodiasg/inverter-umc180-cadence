@@ -28,5 +28,7 @@ DRC ✅
 LVS ✅
 
 ## Pos Layout Simulation
-Work in progress...
+
+![image](https://github.com/hugodiasg/inverter-umc180-cadence/assets/80465879/80fa6ff4-9a79-41f8-a342-c6bc65f506fe)
+
 
